@@ -131,7 +131,7 @@ Full Stack Developer with **5+ years** of experience specializing in:
 **Barber Shop Management App**
 - Real-time queue management for barbers and customers
 - Online booking system with appointment scheduling
-- Developed using React Native and Node.js
+- Developed using React Native and Laravel
 
 ### 🚚 [E-MENEW](https://e-menew.com/en)
 **Delivery Management & POS Solution**
